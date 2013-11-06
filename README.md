@@ -50,6 +50,12 @@ An example file:
       }
     ]
 
+# How Much Faster Is It?
+
+I can't do any formal benchmarks of Messages.app's built-in search, but startup,
+search, and teardown altogether burn about 50 ms total on my machine (a mid-2013
+MacBook Air).
+
 ## License
 
 MIT. Plain and simple. For more details, see the `LICENSE` file.
